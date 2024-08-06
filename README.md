@@ -45,7 +45,7 @@ Ensure you have the following installed on your local machine:
 
     ```env
     PORT=5000
-    DATABASE_URL=mongodb+srv://cgalindoislas:q6ASL8Y2r1NlnNz8@dev-cg-eueast-01.ah2ch8q.mongodb.net/?retryWrites=true&w=majority&appName=dev-cg-eueast-01
+    DATABASE_URL='MONGODB URI'
     ```
 
 2. **Run the server**
